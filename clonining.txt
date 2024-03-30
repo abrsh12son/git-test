@@ -1,0 +1,5 @@
+to clone a some thing  
+1 copy the url of the project on the repositor
+2 create local folder on the local work space
+3 on local work space right click and open bash
+4 on the bash write command  " git clone past -url"
